@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "vscode_workspace",
+			"path": "."
+		},
+		{
+			"name": "Lamune_Util",
+			"path": "../git_hub/Lamune_Util"
+		},
+		{
+			"name": "A001_Python_Test",
+			"path": "../git_hub/A001_Python_Test"
+		},
+		{
+			"path": "../git_hub/PRJ_02"
+		},
+		{
+			"path": "../git_hub/AI_15_CodeState"
+		}
+	],
+	"settings": {}
+}
