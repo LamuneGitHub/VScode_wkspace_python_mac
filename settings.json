@@ -1,14 +1,7 @@
 {
-    "python.autoComplete.extraPaths": [
-        "/Users/lamune/git/git_hub/Lamune_Util"
-    ],
-    "python.terminal.launchArgs": [
-    
-    ],
-    "terminal.integrated.env.osx": {
-    	"PYTHONPATH": "/Users/lamune/git/git_hub/Lamune_Util"
-    },
-    "python.envFile": "${workspaceFolder}/.env",
-    "PYTHONPATH" : "/Users/lamune/git/git_hub/Lamune_Util"
+
+    "python.envFile": "C:\Users\ngkni\git\vscode_workspace_win\.env",
+    "conda.envFile": "C:\Users\ngkni\git\vscode_workspace_win\.env",
+    "PYTHONPATH" : "C:\Users\ngkni\git\Lamune_Util"
 
 }

@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/Users/lamune/git/git_hub/Lamune_Util"
+    ],
+    "python.terminal.launchArgs": [
+    
+    ],
+    "terminal.integrated.env.osx": {
+    	"PYTHONPATH": "/Users/lamune/git/git_hub/Lamune_Util"
+    },
+    "python.envFile": "${workspaceFolder}/.env",
+    "PYTHONPATH" : "/Users/lamune/git/git_hub/Lamune_Util"
+
+}
